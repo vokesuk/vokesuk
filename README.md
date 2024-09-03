@@ -1,0 +1,4 @@
+- 👋 vokesuk
+- 💻 Developer
+- 📝 C# C++ JS HTML LUA CSS SQL PYTHON
+- 📞 Contact Me On Discord - vokesz
